@@ -50,8 +50,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM:
 
-## Developed by: Senthil Kumar S
-## Register Number: 212221230091
+## Developed by: Shankar S S
+## Register Number: 212221240052
 
 ```py
 from google.colab import auth
